@@ -3,4 +3,4 @@ Sistema para la gestión de la información en oficina de Coordinación Académi
 
 ## Listado de estudiantes activos
 Pantalla que presenta novedades de ejemplo para algunos grupos: <br>
-<img src="http://juancmg.com/apps/scgip/SCGIPestudiantes.png" width="1268" height="504" />
+<img src="http://juancmg.com/apps/scgip/SCGIPestudiantes.png" width="1268" height="450" />
